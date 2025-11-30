@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teams | Boston Sports Hall of Fame</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Boston Sports Hall of Fame</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teams.html" class="active">Teams</a></li>
+                <li><a href="hall-of-fame.html">Hall of Fame</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>The Four Pillars of Boston Sports</h2>
+        <p class="intro">
+            Boston is home to four legendary franchises — each representing a legacy of excellence, grit, and passion that defines the city’s identity.
+        </p>
+
+        <section class="team">
+            <img src="First_Project/redsox-logo.webp" alt="Boston Red Sox logo">
+            <div>
+                <h3>Boston Red Sox</h3>
+                <p>
+                    Founded in 1901, the Red Sox are one of Major League Baseball’s most storied teams. 
+                    From breaking the “Curse of the Bambino” in 2004 to their nine World Series titles, the Sox have been the heart of New England baseball.
+                </p>
+                <ul>
+                    <li>9× World Series Champions (most recent: 2018)</li>
+                    <li>Home Stadium: Fenway Park</li>
+                    <li>Iconic Players: Ted Williams, David Ortiz, Carl Yastrzemski</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="team">
+            <img src="First_Project/celtics-logo.webp" alt="Boston Celtics logo">
+            <div>
+                <h3>Boston Celtics</h3>
+                <p>
+                    The Celtics have defined NBA greatness for decades, with 18 championships and a history of legendary players who shaped the game itself.
+                </p>
+                <ul>
+                    <li>18× NBA Champions (most recent: 2024)</li>
+                    <li>Home Arena: TD Garden</li>
+                    <li>Iconic Players: Bill Russell, Larry Bird, Paul Pierce</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="team">
+            <img src="First_Project/patriots-logo.webp" alt="New England Patriots logo">
+            <div>
+                <h3>New England Patriots</h3>
+                <p>
+                    Once underdogs, the Patriots became the NFL’s modern dynasty. 
+                    With six Super Bowl titles, their dominance under Bill Belichick and Tom Brady marked one of the greatest runs in sports history.
+                </p>
+                <ul>
+                    <li>6× Super Bowl Champions (most recent: 2018)</li>
+                    <li>Home Stadium: Gillette Stadium (Foxborough, MA)</li>
+                    <li>Iconic Players: Tom Brady, Rob Gronkowski, Tedy Bruschi</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="team">
+            <img src="First_Project/bruins-logo.webp" alt="Boston Bruins logo">
+            <div>
+                <h3>Boston Bruins</h3>
+                <p>
+                    The Bruins are one of the NHL’s Original Six teams, with a history of toughness and skill. Their black and gold colors symbolize Boston’s hardworking spirit on the ice.
+                </p>
+                <ul>
+                    <li>6× Stanley Cup Champions (most recent: 2011)</li>
+                    <li>Home Arena: TD Garden</li>
+                    <li>Iconic Players: Bobby Orr, Ray Bourque, Patrice Bergeron</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Boston Sports Hall of Fame | Designed by Theo Hummel</p>
+    </footer>
+</body>
+</html>
